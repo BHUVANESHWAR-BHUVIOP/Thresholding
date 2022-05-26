@@ -77,9 +77,6 @@ plt.imshow(th2,cmap='gray')
 ![Output](1.jpg)
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### Global Thresholding:
 <br>
@@ -101,9 +98,6 @@ plt.imshow(th2,cmap='gray')
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### Adaptive Thresholding:
 <br>
@@ -111,17 +105,11 @@ plt.imshow(th2,cmap='gray')
 ![Output](2.jpg)
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ### Optimum Global Thesholding using Otsu's Method:
 <br>
 
 ![Output](8.jpg)
-<br>
-<br>
-<br>
 <br>
 <br>
 
